@@ -1,4 +1,4 @@
- # Binary Search Program
+ # Binary Search 
 
 This repository contains an implementation of the Binary Search algorithm in Python. The code performs a binary search on a sorted array to find a target element. The program returns the index of the target element if it is found, or `-1` if the element is not present in the array.
 
