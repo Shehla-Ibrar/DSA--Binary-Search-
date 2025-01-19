@@ -23,14 +23,14 @@ The time complexity of binay search program is O(log n) in average and best case
 (Worst Case O(n))
 Binary search runs O(n) in many cases such that the array is unsorted and very large, binary case not have a time complexity of O(n) in worst case as it is optimized for sorted arrays.The O(n) complexity will only apply when you are searching through unsorted array.
 
-##### Linear Search
+# Linear Search
 
 Linear Search, also known as sequential search, is a straightforward algorithm used to find a specific element (the target) in a list or array.
 
-###### Purpose 
+## Purpose 
 This program implements the Linear Search algorithm. Linear Search is a simple search algorithm that checks each element of a list sequentially until the target element is found or the entire list has been traversed.
 
-####### How to Run the Program
+### How to Run the Program
 
 1. Copy the code: Ensure the Python code is copied into a file, for example, linear_search.py.
 
@@ -44,7 +44,7 @@ python3 linear_search.py
 
 
 
-######## Purpose of the Code
+#### Purpose of the Code
 
 This code searches for a specific target value within an array and returns the index at which the target is found. If the target is not found, the function returns -1.
 
@@ -54,7 +54,7 @@ target found at index: 2
 
 Further code explanation is given in the program.
 
-#########  Time Complexity
+#####  Time Complexity
 
 The time complexity of Linear Search is O(n), where n is the number of elements in the array. In the worst case, the algorithm will search through the entire array.
 
