@@ -1,3 +1,6 @@
+# link for LinkedIn post
+https://www.linkedin.com/posts/shehla-kayani-b095b824a_github-shehla-ibrardsa-binary-and-linear-search-activity-7286618020456624129-Ur5N?utm_source=social_share_send&utm_medium=android_app&utm_campaign=copy_link
+ 
  # Binary Search 
 
 This repository contains an implementation of the Binary Search algorithm in Python. The code performs a binary search on a sorted array to find a target element. The program returns the index of the target element if it is found, or `-1` if the element is not present in the array.
